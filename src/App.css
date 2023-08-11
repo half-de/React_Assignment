@@ -1,0 +1,33 @@
+body {
+  background: rgb(34,193,195);
+
+}
+
+.header {
+  margin-top: 20px;
+  background-color: white;
+  color: blue;
+  font-family: verdana;
+  text-align: center;
+  border: outset 15px blueviolet;
+}
+
+
+.body {
+  margin-top: 20px;
+  background-color: white;
+  color: red;
+  font-family: verdana;
+  text-align: center;
+  border: outset 15px green ;
+}
+
+
+.footer {
+  margin-top: 20px;
+  background-color: white;
+  color: blue;
+  font-family: verdana;
+  border: outset 15px red ;
+  text-align: center;
+}
